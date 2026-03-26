@@ -1,5 +1,7 @@
 # 🚀 RUTS — Roblox Update Transparency System
 
+https://ruts.pages.dev
+
 <p align="center">
   <b>Track updates before they happen.</b><br/>
   <i>Lightweight • Serverless • Real-Time Intelligence</i>
