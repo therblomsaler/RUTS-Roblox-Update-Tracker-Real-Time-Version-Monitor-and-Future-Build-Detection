@@ -1,4 +1,4 @@
-# 🚀 RUTS — Roblox Update Transparency System Detect Roblox updates in real time live website demo.
+# 🚀 RUTS — Roblox Update Transparency System Detect Roblox updates in real time live website demo. 100% free forever learning recourse.
 
 https://ruts.pages.dev
 
