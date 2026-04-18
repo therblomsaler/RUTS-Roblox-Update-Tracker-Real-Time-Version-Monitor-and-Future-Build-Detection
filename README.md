@@ -1,5 +1,7 @@
 # 🚀 RUTS — Roblox Update Transparency System
 
+Detect Roblox updates in real time live website demo.
+
 https://ruts.pages.dev
 
 <p align="center">
