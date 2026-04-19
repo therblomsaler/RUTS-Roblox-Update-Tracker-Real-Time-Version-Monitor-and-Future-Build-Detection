@@ -1,14 +1,19 @@
-# 🚀 RUTS — Roblox Update Transparency System Detect Roblox updates in real time live website demo. 100% free forever learning recourse. This was made AFTER Roblox made the 'hidden' status on updates.
+# 🚀 RUTS Roblox Update Tracker
 
+Detect Roblox updates in real time and discover future version signals.
+
+🌐 Live Tool  
 https://ruts.pages.dev
 
 <p align="center">
-  <b>Track updates before they happen.</b><br/>
-  <i>Lightweight • Serverless • Real-Time Intelligence</i>
+  <b>Track updates as they happen.</b><br/>
+  <i>Lightweight • Private • Real-Time Tracking</i>
 </p>
 
 <p align="center">
-  <a href="https://ruts.pages.dev"><img src="https://img.shields.io/badge/Live%20Tool-Open-0a0a0a?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
+  <a href="https://ruts.pages.dev">
+    <img src="https://img.shields.io/badge/Live%20Tool-Open-0a0a0a?style=for-the-badge&logo=cloudflare&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/Frontend-Only-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow">
   <img src="https://img.shields.io/badge/Storage-LocalStorage-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white">
   <img src="https://img.shields.io/badge/Backend-None-0a0a0a?style=for-the-badge&logo=databricks&logoColor=white">
@@ -16,45 +21,90 @@ https://ruts.pages.dev
 
 ---
 
-## 🧠 What is RUTS?
+## 🧠 What is RUTS
 
-**RUTS (Roblox Update Transparency System)** is a **zero-backend intelligence tool** that monitors Roblox client updates in real time including **pre-release signals before they reach public channels like zbeta**.
+**RUTS (Roblox Update Transparency System)** is a frontend-only update intelligence tool that monitors Roblox client versions in real time.
 
-It’s built for **frontend-only environments**, using **local browser storage**. No servers, no databases, no setup. Just open, track, and see updates as they happen.
+It detects live updates, tracks platform differences, and researches early signals that may indicate upcoming versions before they appear on public channels like zbeta.
+
+Everything runs directly in your browser. No servers. No accounts. No setup.
 
 ---
 
-## ⚡ Features
+## ⚡ Key Features
 
-- 🔍 **Current Version Detection** Know the exact live Roblox client version instantly.  
-- 🛰️ **Channel & Pre-Release Monitoring** – Track hidden endpoints & integration channels.  
-- ⏱️ **Real-Time Update Logging** Capture updates before they hit zbeta or live.  
-- 🔁 **Future Reversal Insights** Analyze and compare versions for rollback/reverse mapping.  
-- 📦 **Frontend-Only & Serverless** Works entirely in the browser with local storage.  
+🔍 **Real-Time Version Tracking**  
+Detect live Roblox versions instantly across multiple platforms.
+
+🧪 **Future Version Discovery**  
+Research-based scanning detects early version signals and future build activity.
+
+🧠 **Smart Learning System**  
+Patterns improve over time using validation cycles, lifecycle tracking, and cleanup logic.
+
+📡 **Multi-Platform Monitoring**  
+Tracks Windows, Mac, iOS, Android, Xbox, and Studio builds.
+
+🔔 **Optional Webhook Notifications**  
+Send live update alerts to Discord or Telegram using built-in webhook support.
+
+📦 **Fully Frontend and Private**  
+Runs entirely in your browser using local storage. No backend required.
 
 ---
 
 ## 📌 How to Use
 
-1. Open [RUTS](https://ruts.pages.dev) in your browser.  
-2. Let it fetch Roblox client versions automatically.  
-3. Watch updates appear in **real-time logs**.  
-4. All data is stored **locally** your browser, your control.  
+1. Open https://ruts.pages.dev  
+2. Let the scanner begin automatically  
+3. Watch live updates and research signals appear  
+4. Optionally enable webhook alerts for notifications  
+5. All logs remain stored locally in your browser  
 
 ---
 
-## 🎨 Why RUTS?
+## 🔬 Built for Research and Learning
 
-- **Lightweight:** Minimal overhead, no installations required.  
-- **Privacy-First:** Nothing leaves your browser.  
-- **Future-Proof:** Designed for pre-release detection & analysis.  
-- **Transparent:** Full logs available locally for research and tracking.  
+RUTS includes multiple research methods designed to detect version signals earlier and more reliably.
+
+This includes:
+
+- multi-source probing  
+- regional and CDN discovery  
+- version lifecycle validation  
+- historical pattern comparison  
+- automated cleanup of stale signals  
+
+These systems improve accuracy while keeping noise low.
+
+---
+
+## 🎯 Why RUTS Exists
+
+Roblox introduced hidden update states that made tracking changes more difficult.
+
+RUTS was built to restore visibility and transparency for developers, researchers, and anyone interested in version tracking.
+
+It is completely free and intended as a learning resource for update research.
 
 ---
 
 <p align="center">
-  <b>Stay ahead of Roblox updates. Track. Detect. Reverse.</b><br/>
-  <a href="https://ruts.pages.dev"><strong>Open RUTS Now →</strong></a>
+  <b>Track versions. Discover signals. Stay informed.</b><br/>
+  <a href="https://ruts.pages.dev">
+    <strong>Open RUTS Now</strong>
+  </a>
 </p>
 
-#Roblox #Roblox Update Tracker #Updates #Live #Reversal #Roblox Hashes #Downloads #FreeForever #UpdateTracker #DownloadVersions #Version Tracker #RobloxWeb #RobloxPlayer #Studio #Roblox Studio version #Web version #RobloxPlayer version #2026 #2027 #2025
+---
+
+# Roblox update tracker  
+# Roblox version monitor  
+# Roblox future versions  
+# Roblox build detection  
+# Roblox Studio version tracker  
+# Roblox Player version tracker  
+# Roblox update research  
+# Roblox hash tracking  
+# Roblox version history  
+# Roblox real time updates  
