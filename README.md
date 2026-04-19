@@ -66,17 +66,6 @@ Runs entirely in your browser using local storage. No backend required.
 ## 🔬 Built for Research and Learning
 
 RUTS includes multiple research methods designed to detect version signals earlier and more reliably.
-
-This includes:
-
-- multi-source probing  
-- regional and CDN discovery  
-- version lifecycle validation  
-- historical pattern comparison  
-- automated cleanup of stale signals  
-
-These systems improve accuracy while keeping noise low.
-
 ---
 
 ## 🎯 Why RUTS Exists
